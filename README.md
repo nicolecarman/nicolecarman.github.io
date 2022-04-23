@@ -1,6 +1,8 @@
 ## Hello, I'm Nicole 👋
 
-###I'm a Software Engineering student and a self-taught web designer. I'm currently utilizing Codecademy and freeCodeCamp to further my knowledge in full stack and software development. I am actively looking for a remote internship (summer) and full-time remote work opportunities!
+### I'm a Software Engineering student and a self-taught web designer.
+I'm currently utilizing Codecademy and freeCodeCamp to further my knowledge in full stack and software development. I am actively looking for a remote internship (summer) and full-time remote work opportunities!
+
 - I will graduate with my B.S. in Software Engineering in 2024
 - My self-taught website and graphic design experience dates back to the early 2000s
 - I'm working on Codecademy's Full-Stack Engineer career path
